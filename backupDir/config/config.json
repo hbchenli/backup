@@ -3,7 +3,7 @@
     "source_dir": [
         {
             "type": "HOST",
-            "host": "133.0.165.65",
+            "host": "xx.0.165.65",
             "port": "22",
             "username": "weblogic",
             "password": "975a98c55d1feac8basdfsdf56",
@@ -16,7 +16,7 @@
         },
         {
             "type": "HOST",
-            "host": "133.0.143.66",
+            "host": "xx.0.143.66",
             "port": "22",
             "username": "weblogic",
             "password": "1db9edd12f2dbfd4asdfsdfdfd164",
@@ -29,7 +29,7 @@
         },
         {
             "type": "HOST",
-            "host": "133.0.13.89",
+            "host": "xx.0.13.89",
             "port": "22",
             "username": "bossnm",
             "password": "6c3d123d0587a6asdfdsfsd30449",
@@ -43,7 +43,7 @@
         },
         {
             "type": "HOST",
-            "host": "10.36.13.23",
+            "host": "xx.36.13.23",
             "port": "22",
             "username": "weblogic",
             "password": "6a8b7809f39255a78e9c59dce9c691b3sdfsdfsdd6f206fdea7774f9e12",
@@ -56,7 +56,7 @@
         },
         {
             "type": "ORACLE_TAB",
-            "host": "133.0.45.67",
+            "host": "xx.0.45.67",
             "prot": "11521",
             "dbsid": "BILLDB",
             "tnsname": "HBWG_NEW",
@@ -67,7 +67,7 @@
         },
         {
             "type": "ORACLE_PROC",
-            "host": "133.0.34.1",
+            "host": "xx.0.34.1",
             "port": "11521",
             "dbsid": "BILLDB",
             "tnsname": "HBWG_NEW",
